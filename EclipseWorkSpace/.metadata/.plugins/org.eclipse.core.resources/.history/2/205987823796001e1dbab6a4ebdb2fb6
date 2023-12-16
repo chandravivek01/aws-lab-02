@@ -1,5 +1,0 @@
-package com.vcs.currencyexchangeservice.exception;
-
-public class CustomizedResponseEntityExceptionHandler {
-
-}

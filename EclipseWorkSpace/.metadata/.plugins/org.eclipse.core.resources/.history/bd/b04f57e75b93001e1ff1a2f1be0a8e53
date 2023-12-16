@@ -1,5 +1,0 @@
-package com.vcs.advancedRestApi.repository;
-
-public interface PostRepository {
-
-}

@@ -1,5 +1,0 @@
-package com.vcs.apigateway.configuration;
-
-public class LoggingFilter {
-
-}
