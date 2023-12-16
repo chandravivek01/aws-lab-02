@@ -1,0 +1,5 @@
+package com.vcs.advancedRestApi.model;
+
+public class Post {
+
+}

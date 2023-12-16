@@ -1,0 +1,5 @@
+package com.vcs.currencyexchangeservice.controller;
+
+public class CurrencyExchangeController {
+
+}

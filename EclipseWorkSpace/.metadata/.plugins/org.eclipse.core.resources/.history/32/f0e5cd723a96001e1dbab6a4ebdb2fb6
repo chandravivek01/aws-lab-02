@@ -1,0 +1,12 @@
+package com.vcs.currencyconversionservice.model;
+
+
+public class CurrencyConversion {
+	
+	private Long id;
+	private String from;
+	private String to;
+	private double conversionMultiple;
+	private int quantity;
+	private double calculatedAmount;
+}

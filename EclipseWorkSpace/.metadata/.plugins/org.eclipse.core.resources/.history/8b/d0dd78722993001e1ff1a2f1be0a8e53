@@ -1,0 +1,5 @@
+package com.vcs.advancedRestApi.controller;
+
+public class UserJpaController {
+
+}

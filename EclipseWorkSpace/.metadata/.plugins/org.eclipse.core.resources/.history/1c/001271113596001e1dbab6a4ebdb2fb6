@@ -1,0 +1,5 @@
+package com.vcs.currencyexchangeservice.repository;
+
+public interface CurrencyExchangeRepository {
+
+}
